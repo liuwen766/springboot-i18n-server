@@ -11,8 +11,8 @@ import java.util.Locale;
  * MessageSource工具
  * 依赖{@link MessageSource}
  *
- * @author Catscan
- * @date 2019-06-07
+ * @author liuwen
+ * @date 2020-07-08
  */
 @Component
 public class MessageSourceUtil {
